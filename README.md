@@ -6,3 +6,4 @@ atmosphere_tests_amexternal.ipynb - runs tests external to the calculator and di
 
 atmosphere_tests_atm.ipynb - runs similar tests in casa using the atm code to check how those results compare
 
+am_changes_report.ipynb - report on proposed changes
